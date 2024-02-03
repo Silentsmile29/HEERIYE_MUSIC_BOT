@@ -49,10 +49,10 @@ START_BTN = [
     [
         InlineKeyboardButton(text="DETAILS", callback_data="Miko_"),
         InlineKeyboardButton(text="AI", callback_data="ai_handler"),
-        InlineKeyboardButton(text="SOURCE", callback_data="git_source"),
+        InlineKeyboardButton(text="SOURCE", callback_data="https://github.com/Romaan313/HEERIYE_MUSIC_BOT"),
     ],
     [
-        InlineKeyboardButton(text="CREATOR", url=f"tg://user?id={OWNER_ID}"),
+        InlineKeyboardButton(text="CREATOR", url="https://t.me/ll_TANU_ROM_ll"),
     ],
 ]
 
@@ -64,7 +64,7 @@ GROUP_START_BTN = [
         ),
     ],
     [
-        InlineKeyboardButton(text="SUPPORT", url=f"https://t.me/{SUPPORT_CHAT}"),
+        InlineKeyboardButton(text="SUPPORT", url="https://t.me/ll_HEERIYE_ll"),
         InlineKeyboardButton(text="CREATOR", url=f"tg://user?id={OWNER_ID}"),
     ],
 ]
@@ -72,7 +72,7 @@ GROUP_START_BTN = [
 ALIVE_BTN = [
     [
         ib(text="UPDATES", url="https://t.me/Hydra_Updates"),
-        ib(text="SUPPORT", url="https://t.me/hydraXsupport"),
+        ib(text="SUPPORT", url="https://t.me/ll_HEERIYE_ll"),
     ],
     [
         ib(
