@@ -493,10 +493,10 @@ async def Miko_about_callback(update: Update, context: ContextTypes.DEFAULT_TYPE
                 [
                     [
                         InlineKeyboardButton(
-                            text="SUPPORT", url=f"https://t.me/{SUPPORT_CHAT}"
+                            text="SUPPORT", url="https://t.me/ll_HEERIYE_ll"
                         ),
                         InlineKeyboardButton(
-                            text="DEVELOPER", url=f"tg://user?id={OWNER_ID}"
+                            text="DEVELOPER", url="https://t.me/ll_TANU_ROM_ll"
                         ),
                     ],
                     [
