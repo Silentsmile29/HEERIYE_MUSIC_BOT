@@ -41,7 +41,7 @@
       "MESSAGE_DUMP": {
          "description": "Support chat ID.",
          "required": true,
-         "value": "-1001511142636"
+         "value": "-1001647516310"
       },
       "MONGO_DB_URI": {
          "description": "Required for MongoDB database connections.",
@@ -95,7 +95,7 @@
       "SUPPORT_ID": {
          "description": "Support chat ID.",
          "required": true,
-         "value": "-1001511142636"
+         "value": "-1001597866419"
       },
       "DB_NAME": {
          "description": "Your MongoDB name.",
