@@ -49,10 +49,10 @@ START_BTN = [
     [
         InlineKeyboardButton(text="DETAILS", callback_data="Miko_"),
         InlineKeyboardButton(text="AI", callback_data="ai_handler"),
-        InlineKeyboardButton(text="SOURCE", callback_data="https://github.com/Romaan313/HEERIYE_MUSIC_BOT"),
+        InlineKeyboardButton(text="SOURCE", callback_data="https://github.com/Silentsmile29/HEERIYE_MUSIC_BOT"),
     ],
     [
-        InlineKeyboardButton(text="CREATOR", url="https://t.me/ll_TANU_ROM_ll"),
+        InlineKeyboardButton(text="CREATOR", url="https://t.me/Silent_Smile_04"),
     ],
 ]
 
@@ -64,15 +64,15 @@ GROUP_START_BTN = [
         ),
     ],
     [
-        InlineKeyboardButton(text="SUPPORT", url="https://t.me/ll_HEERIYE_ll"),
+        InlineKeyboardButton(text="SUPPORT", url="https://t.me/ll_TOTAL_MASTI_ll"),
         InlineKeyboardButton(text="CREATOR", url=f"tg://user?id={OWNER_ID}"),
     ],
 ]
 
 ALIVE_BTN = [
     [
-        ib(text="UPDATES", url="https://t.me/Hydra_Updates"),
-        ib(text="SUPPORT", url="https://t.me/ll_HEERIYE_ll"),
+        ib(text="UPDATES", url="https://t.me/Bot_update_29"),
+        ib(text="SUPPORT", url="https://t.me/ll_TOTAL_MASTI_ll"),
     ],
     [
         ib(
@@ -83,7 +83,7 @@ ALIVE_BTN = [
 ]
 
 HELP_STRINGS = """
-🫧 *Yae-Miko* 🫧
+🫧 *Silent Smile* 🫧
 
 ☉ *Here, you will find a list of all the available commands.*
 
