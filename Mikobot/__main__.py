@@ -397,7 +397,7 @@ async def stats_back(update: Update, context: ContextTypes.DEFAULT_TYPE):
         mem = psutil.virtual_memory().percent
         disk = psutil.disk_usage("/").percent
         text = f"""
-𝙎𝙮𝙨𝙩𝙚𝙢 𝙨𝙩𝙖𝙩𝙨@𝙔𝙖𝙚𝙈𝙞𝙠𝙤_𝙍𝙤𝙭𝙗𝙤𝙩
+𝙎𝙮𝙨𝙩𝙚𝙢 𝙨𝙩𝙖𝙩𝙨 
 ➖➖➖➖➖➖
 UPTIME ➼ {uptime}
 CPU ➼ {cpu}%
@@ -493,10 +493,10 @@ async def Miko_about_callback(update: Update, context: ContextTypes.DEFAULT_TYPE
                 [
                     [
                         InlineKeyboardButton(
-                            text="SUPPORT", url="https://t.me/ll_HEERIYE_ll"
+                            text="SUPPORT", url="https://t.me/ll_TOTAL_MASTI_ll"
                         ),
                         InlineKeyboardButton(
-                            text="DEVELOPER", url="https://t.me/ll_TANU_ROM_ll"
+                            text="DEVELOPER", url="https://t.me/Silent_Smile_04"
                         ),
                     ],
                     [
